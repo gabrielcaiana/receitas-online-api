@@ -17,12 +17,11 @@
     "@strapi/strapi": "4.1.12",
     "better-sqlite3": "7.5.3",
     "pg": "^8.7.3",
-    "pg-connection-string": "^2.5.0",
     "slugify": "^1.6.5",
     "strapi-plugin-slugify": "^2.2.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Gabriel Caiana"
   },
   "strapi": {
     "uuid": "d3d92baf-4df9-45d7-a18d-6c8ee838996b"
